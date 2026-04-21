@@ -1,4 +1,4 @@
 # SKA-Explorer
 Interactive visualization of the SKA forward learning algorithm on MNIST
 
-![SKA Explorer](https://huggingface.co/quant-iota/spaces)
+[SKA Explorer](https://huggingface.co/quant-iota/spaces)
